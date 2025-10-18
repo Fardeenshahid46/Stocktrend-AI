@@ -62,7 +62,7 @@ This will generate a new model.pkl inside the src/ folder.
 
 The project is deployed using Streamlit Cloud.
 
-🔗 Live App: Click Here to Open
+🔗 Live App: https://stocktrend-ai-nhoppypu5ymdrekgx8xsqv.streamlit.app/
 
 🧰 Tech Stack
 
