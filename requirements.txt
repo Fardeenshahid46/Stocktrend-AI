@@ -1,8 +1,7 @@
-Python
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
-XGBoost
-NumPy
-Streamlit
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+yfinance
+matplotlib
